@@ -24,7 +24,7 @@ button {
 }
 
 
-.img {
+.list {
   display: flex;
   flex-direction: column;
 }
